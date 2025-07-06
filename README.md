@@ -107,7 +107,7 @@ Test Statistic: The difference in means of minutes between the group with missin
 Significance Level: 0.05  
 
 Outcome:
-<iframe src="rating_missing_vs_minutes.html" width="800" height="600" frameborder="0" ></iframe>
+<iframe src="assets/rating_missing_vs_minutes.html" width="800" height="600" frameborder="0" ></iframe>
 
 The observed test statistic came out to be 51.4 and after running the permutation test, the p-value came out to be 0.119 which means we will fail to reject the null hypothesis. Thus, we can understand that the missingness of rating is not dependent on the minutes the recipe takes.
 
@@ -120,7 +120,7 @@ Test Statistic: The difference in means of protein proportions between the group
 Significance Level: 0.05  
 
 Outcome:
-<iframe src="rating_missing_vs_protein_proportion.html" width="800" height="600" frameborder="0" ></iframe>
+<iframe src="assets/rating_missing_vs_protein_proportion.html" width="800" height="600" frameborder="0" ></iframe>
 
 The observed test statistic came out to be -0.007 and after running the permutation test, the p-value came out to be 0.0 which means we reject the null hypothesis. Thus, we can understand that the missingness of rating is dependent on the protein proportion of a recipe.
 
